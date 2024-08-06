@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="BackgroundColor">#1c1c1c</color>
+    <color name="OperationBtText">@color/white</color>
+    <color name="AllClearBt">#ff8b3d</color>
+    <color name="ClearBt">#ff8b3d</color>
+    <color name="OperationBts">#ff8b3d</color>
+    <color name="EqualsBt">#ff8b3d</color>
+    <color name="NormalBtText">@color/white</color>
+    <color name="ButtonBackground">#6D6D6D</color>
+</resources>
